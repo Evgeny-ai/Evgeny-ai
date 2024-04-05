@@ -28,11 +28,13 @@
 
 <div>
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<br>
   <p>
     <div align="center">
     <img src=https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966 align="right" width=372 height=220>
     </div>
     </div>
+    <div>
     <br>
     <p align="centr"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -44,6 +46,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" width="40" height="40"/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="max-width: 100%;" width="40" height="40">
+     <br><br>
      </p>
      <br>
      <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
