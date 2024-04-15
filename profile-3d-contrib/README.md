@@ -13,14 +13,13 @@
  </div>
  
 <div> 
-<h2 align="center">🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊</h2>
+<h2 align="center">🐾 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🐾</h2>
 <div align="centr">
-<img src="https://i.imgur.com/67mkygb.gif" align="right" width=374 height=230>
-</div>
-<li><b> My name:</b> Evgeniy</li>
-<li><b>I am:</b> Web Developer</li>
-<li>Skillbox Graduate:</li>
-<li><b>I am:</b> Web Developer</li>
+<img src="https://media1.tenor.com/m/naR85rQtmLsAAAAC/code-secret.gif" align="right" width=374 height=230>
+</div> 
+<li><b>👨‍💻 My name:</b> Evgeniy</li>
+<li><b>💻 I am:</b> Web Developer</li>
+<li>📖 Skillbox Graduate.</li>
 <li>Learning progress:</li>
 <li><img src="https://progress-bar.dev/100/" alt="progress"></li>
 <br><br><br>
@@ -67,8 +66,10 @@
     </div>
 <br><br><br>
 
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+<br/>
 
-<h3>My Stats:</h3>
+<h3>📈 My Stats:</h3>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Evgeny-ai&theme=transparent&mode=weekly" title="streak-stats" **alt="streak-stats" height=165/>
 </div>
