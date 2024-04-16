@@ -70,14 +70,14 @@
         <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="vk"/>
       </a>
       </p>
-      <br>
+      <br><br><br><br>
     </div>
-    <p>>
+    <p>
 
-<!-- <h3 align="center" style="margin-top: 50px">📈  𝓜𝔂 𝓢𝓽𝓪𝓽𝓼 📈 </h3>
+<h3 align="center" style="margin-top: 50px">📈  𝓜𝔂 𝓢𝓽𝓪𝓽𝓼 📈 </h3>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Evgeny-ai&theme=transparent&mode=weekly" title="streak-stats" **alt="streak-stats" height=165/>
-</div> -->
+</div>
 
 <!-- Snake -->
 <div align="center" style="margin-top: 30px">
