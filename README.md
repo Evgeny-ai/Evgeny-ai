@@ -1,4 +1,3 @@
-
  <h1 align="center"><img src="https://c.tenor.com/4f8BH8nt1OYAAAAC/tenor.gif" height="155" width="650" alt="Welcom to my profile">
  </h1>
  <!-- <h1 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://i.postimg.cc/C5wJ4dS9/Welcom-to-my-profile.gif"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> -->
@@ -36,8 +35,6 @@
 
 <div>
 <h2 align="center" style="margin-top: 50px">📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇</h2>
-<!-- <br> -->
-  <!-- <p> -->
     <div align="center">
     <img src=https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966 align="right" width=372 height=210>
     </div>
@@ -54,13 +51,13 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" width="40" height="40"/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="max-width: 100%;" width="40" height="40">
-     <br><br>
+     <br><br><br><br><br><br>
      </p>
-     <br>
-     <h2 align="center" style="margin-top: 150px">📝  𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮  📝</h2>
+     </div>
+    
+<h2 align="center" style="margin-top: 50px">📝  𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮  📝</h2>
      <div align="center">
      <img src="https://c.tenor.com/cwoN93BINOMAAAAC/tenor.gif" align="right" width="373.5px" height="208.5px">
-    </div>
     <br>
     <p align="center"><a href="https://t.me/Kurama009">
         <img src="https://img.shields.io/badge/-Kurama009-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
@@ -75,12 +72,12 @@
       </p>
       <br>
     </div>
-    <p>
+    <p>>
 
-<h3 align="center" style="margin-top: 150px">📈  𝓜𝔂 𝓢𝓽𝓪𝓽𝓼 📈 </h3>
+<!-- <h3 align="center" style="margin-top: 50px">📈  𝓜𝔂 𝓢𝓽𝓪𝓽𝓼 📈 </h3>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Evgeny-ai&theme=transparent&mode=weekly" title="streak-stats" **alt="streak-stats" height=165/>
-</div>
+</div> -->
 
 <!-- Snake -->
 <div align="center" style="margin-top: 30px">
