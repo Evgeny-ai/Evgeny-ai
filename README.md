@@ -1,9 +1,7 @@
  <h1 align="center"><img src="https://c.tenor.com/4f8BH8nt1OYAAAAC/tenor.gif" height="155" width="650" alt="Welcom to my profile">
  </h1>
- <!-- <h1 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://i.postimg.cc/C5wJ4dS9/Welcom-to-my-profile.gif"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> -->
  <br>
  <div id="header" align="center">
- <!-- <img src="https://i.postimg.cc/ydQxr0Xp/download.gif" width=450  height=175 syle="display: block; margin: 0 auto" alt="сoding"/> -->
  </br>
   <p>𝓘𝓽 𝓲𝓼 𝓯𝓸𝓸𝓵𝓲𝓼𝓱 𝓽𝓸 𝓫𝓮 𝓪𝓯𝓻𝓪𝓲𝓭 𝓸𝓯 𝔀𝓱𝓪𝓽</p>
   <p>𝔀𝓮 𝓱𝓪𝓿𝓮 𝔂𝓮𝓽 𝓽𝓸 𝓼𝓮𝓮 𝓪𝓷𝓭 𝓴𝓷𝓸𝔀</p>
