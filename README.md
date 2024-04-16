@@ -57,7 +57,7 @@
      <br><br>
      </p>
      <br>
-     <h2 align="center" style="margin-top: 90px">📝  𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮  📝</h2>
+     <h2 align="center" style="margin-top: 150px">📝  𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮  📝</h2>
      <div align="center">
      <img src="https://c.tenor.com/cwoN93BINOMAAAAC/tenor.gif" align="right" width="373.5px" height="208.5px">
     </div>
@@ -77,7 +77,7 @@
     </div>
     <p>
 
-<h3 align="center" style="margin-top: 90px">📈  𝓜𝔂 𝓢𝓽𝓪𝓽𝓼 📈 </h3>
+<h3 align="center" style="margin-top: 150px">📈  𝓜𝔂 𝓢𝓽𝓪𝓽𝓼 📈 </h3>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Evgeny-ai&theme=transparent&mode=weekly" title="streak-stats" **alt="streak-stats" height=165/>
 </div>
