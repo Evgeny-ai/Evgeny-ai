@@ -1,6 +1,5 @@
  <h1 align="center"><img src="https://c.tenor.com/4f8BH8nt1OYAAAAC/tenor.gif" height="155" width="650" alt="Welcom to my profile">
  </h1>
- <!-- <h1 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://i.postimg.cc/C5wJ4dS9/Welcom-to-my-profile.gif"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> -->
  <br>
  <div id="header" align="center">
  <!-- <img src="https://i.postimg.cc/ydQxr0Xp/download.gif" width=450  height=175 syle="display: block; margin: 0 auto" alt="сoding"/> -->
